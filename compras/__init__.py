@@ -1,0 +1,1 @@
+"""Módulo MVC para la gestión de la lista de compras."""
